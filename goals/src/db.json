@@ -1,0 +1,91 @@
+{
+  "goals": [
+    {
+      "id": "1",
+      "name": "Travel Fund - Japan",
+      "targetAmount": 5000,
+      "savedAmount": 3200,
+      "category": "Travel",
+      "deadline": "2025-12-31",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "ijaAfj3"
+    },
+    {
+      "id": "fT3uPYu"
+    },
+    {
+      "id": "ptyzONF"
+    },
+    {
+      "formData": {
+        "id": "awd",
+        "name": "wadaw",
+        "targetAmount": "daw",
+        "savedAmount": "dawd",
+        "category": "dwad",
+        "deadline": "awdwa",
+        "createdAt": "dawd"
+      },
+      "id": "athBfYr"
+    },
+    {
+      "formData": {
+        "id": "sD",
+        "name": "dwad",
+        "targetAmount": "awd",
+        "savedAmount": "awdaw",
+        "category": "dawd",
+        "deadline": "awdawd",
+        "createdAt": "awdaw"
+      },
+      "id": "CWkDUn1"
+    },
+    {
+      "formData": {
+        "id": "sD",
+        "name": "dwad",
+        "targetAmount": "awd",
+        "savedAmount": "awdaw",
+        "category": "dawd",
+        "deadline": "awdawd",
+        "createdAt": "awdaw"
+      },
+      "id": "cGnEvIV"
+    },
+    {
+      "formData": {
+        "id": "szc",
+        "name": "zsczs",
+        "targetAmount": "cszc",
+        "savedAmount": "zscz",
+        "category": "scszc",
+        "deadline": "zsczsc",
+        "createdAt": "zsc"
+      },
+      "id": "rhX5GMC"
+    },
+    {
+      "formData": {
+        "id": "szc",
+        "name": "zsczs",
+        "targetAmount": "cszc",
+        "savedAmount": "zscz",
+        "category": "scszc",
+        "deadline": "zsczsc",
+        "createdAt": "zsc"
+      },
+      "id": "XFbe8JS"
+    },
+    {
+      "id": "awdaw",
+      "name": "daw",
+      "targetAmount": "awdwa",
+      "savedAmount": "dwad",
+      "category": "awdwa",
+      "deadline": "dwadaw",
+      "createdAt": "dwadwa"
+    }
+  ]
+}
